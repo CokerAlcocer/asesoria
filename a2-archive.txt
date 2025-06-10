@@ -3,3 +3,4 @@ Párrafo #2 en main
 Párrafo #3 en main
 
 Párrafo #1 de user1
+Párrafo #2 de user1
